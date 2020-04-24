@@ -24,7 +24,7 @@
         <div id="headtext6">Проєкти ОНП
             <div class="drop">
                 <a class="underDrop" href="#">015 – Професійна освіта (за спеціалізаціями)</a>
-                <br><a class="underDrop" href="http://localhost:63342/untitled3/economics_page.html?_ijt=k3a98qs4ldn3shieqasujkpb8u"> 051 – Економіка</a>
+                <br><a class="underDrop" href="economics_page.html"> 051 – Економіка</a>
                 <br><a class="underDrop" href="#"> 073 – Менеджмент</a>
 
 
