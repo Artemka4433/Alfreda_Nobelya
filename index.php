@@ -20,7 +20,7 @@
     </header>
     <nav id="second">
         <div id="headtext4">Аспірантура, докторантура //</div>
-        <div id="headtext5" onclick=""><a href="https://duan.edu.ua/science-ukr/aspirantura-doktorantura.html">Аспірантура, докторантура</div>
+        <div id="headtext5" href="https://duan.edu.ua/science-ukr/aspirantura-doktorantura.html">Аспірантура, докторантура</div>
         <div id="headtext6">Проєкти ОНП
             <div class="drop">
                 <a class="underDrop" href="#">015 – Професійна освіта (за спеціалізаціями)</a>
@@ -33,7 +33,7 @@
         <div id="headtext8">Клуб аспірантів і докторантів</div>
         <div id="headtext9">Театральна студія аспірантури
             <div class="drop2">
-                <a class="underDrop" href="#">Что-то еще</a>
+                <a class="underDrop" href="#">Економика</a>
                 <br><a class="underDrop" href="#"> Педогогика</a>
 
 
