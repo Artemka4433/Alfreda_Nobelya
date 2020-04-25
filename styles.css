@@ -82,6 +82,7 @@
 }
 #headtext5{
     text-decoration: none;
+    color: black;
     position: absolute;
     width: 311px;
     height: 29px;
@@ -125,10 +126,12 @@ background-color: #4682B4;
     opacity: 1;
 }
 #headtext6:hover {
+    text-decoration: none;
+    color: black;
     background-color: #4682B4;
     width: 157px;
     height: 29px;
-    color: #F2F2F2;
+
 }
 #headtext6:active{
     background-color: #00008B;
