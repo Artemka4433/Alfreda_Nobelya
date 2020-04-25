@@ -20,7 +20,7 @@
     </header>
     <nav id="second">
         <div id="headtext4">Аспірантура, докторантура //</div>
-        <div id="headtext5" onclick="">Аспірантура, докторантура</div>
+        <div id="headtext5" onclick=""><a href="https://duan.edu.ua/science-ukr/aspirantura-doktorantura.html">Аспірантура, докторантура</div>
         <div id="headtext6">Проєкти ОНП
             <div class="drop">
                 <a class="underDrop" href="#">015 – Професійна освіта (за спеціалізаціями)</a>
