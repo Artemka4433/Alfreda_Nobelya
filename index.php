@@ -16,11 +16,11 @@
 
         <p id="headtext1">Університет імені Альфреда Нобеля</p>
         <p id="headtext2">Гаряча лінія<br>0-800-75-51-57</br></p>
-        <p id="headtext3"><img src="nobelya.png" width="148" height="148" alt="Nobelya"></p>
+        <p id="headtext3"><img src="img/nobelya.png" width="148" height="148" alt="Nobelya"></p>
     </header>
     <nav id="second">
         <div id="headtext4">Аспірантура, докторантура //</div>
-        <div id="headtext5" href="https://duan.edu.ua/science-ukr/aspirantura-doktorantura.html">Аспірантура, докторантура</div>
+        <div id="headtext5">Аспірантура, докторантура</div>
         <div id="headtext6">Проєкти ОНП
             <div class="drop">
                 <a class="underDrop" href="#">015 – Професійна освіта (за спеціалізаціями)</a>
@@ -81,7 +81,7 @@
 </div>
 </div>
 <div id="fourth"> <div id="map"><a href="https://maps.google.com.ua/"></a></div>
-    <iframe id="map1" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2645.2092434219103!2d35.040832515846546!3d48.47169993580919!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40dbe2eefae376b9%3A0x6b4d864fd6ea667e!2z0KPQvdC40LLQtdGA0YHQuNGC0LXRgiDQuNC80LXQvdC4INCQ0LvRjNGE0YDQtdC00LAg0J3QvtCx0LXQu9GP!5e0!3m2!1sru!2sua!4v1587415162565!5m2!1sru!2sua" width="1567" height="647" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+    <iframe id="map1" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2645.2092434219103!2d35.040832515846546!3d48.47169993580919!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40dbe2eefae376b9%3A0x6b4d864fd6ea667e!2z0KPQvdC40LLQtdGA0YHQuNGC0LXRgiDQuNC80LXQvdC4INCQ0LvRjNGE0YDQtdC00LAg0J3QvtCx0LXQu9GP!5e0!3m2!1sru!2sua!4v1587415162565!5m2!1sru!2sua" width="1527" height="647" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 </div>
 <div id="fifth">
     <div id="join">Join the team of success</div>
@@ -97,14 +97,14 @@
     <div id="fourth5">Знайти нас:<br>
         <table id="table">
             <tr>
-                <td><div class="web" ><a href="https://twitter.com/nobeluniversity"><img src="twit.png" width="45" height="45" alt="Twitter"></a></div></td>
-                <td><div class="web"><a href="tel:+380500161727"><img src="viber.png" width="45" height="45" alt="Viber"></a></div></td>
-                <td><div class="web"><a href="https://t.me/nobel_ua"><img src="telegram.png" width="45" height="45" alt="Telegram"></a></div></td>
+                <td><div class="web" ><a href="https://twitter.com/nobeluniversity"><img src="img/twit.png" width="45" height="45" alt="Twitter"></a></div></td>
+                <td><div class="web"><a href="tel:+380500161727"><img src="img/viber.png" width="45" height="45" alt="Viber"></a></div></td>
+                <td><div class="web"><a href="https://t.me/nobel_ua"><img src="img/telegram.png" width="45" height="45" alt="Telegram"></a></div></td>
             </tr>
             <tr>
-                <td><div class="web"><a href="https://www.youtube.com/channel/UCcrjkZ1VcpXnYq8OlDdNoiA"><img src="youtube.png" width="45" height="45" alt="Youtube"></a></div></td>
-                <td><div class="web"><a href="https://www.facebook.com/duan.edu.ua/"><img src="face.png" width="45" height="45" alt="Facebook"></a></div></td>
-                <td><div class="web"><a href="https://www.instagram.com/nobel_ua/"><img src="inst.png" width="45" height="45" alt="Instagram"></a></div></td>
+                <td><div class="web"><a href="https://www.youtube.com/channel/UCcrjkZ1VcpXnYq8OlDdNoiA"><img src="img/youtube.png" width="45" height="45" alt="Youtube"></a></div></td>
+                <td><div class="web"><a href="https://www.facebook.com/duan.edu.ua/"><img src="img/face.png" width="45" height="45" alt="Facebook"></a></div></td>
+                <td><div class="web"><a href="https://www.instagram.com/nobel_ua/"><img src="img/inst.png" width="45" height="45" alt="Instagram"></a></div></td>
             </tr>
 
         </table>

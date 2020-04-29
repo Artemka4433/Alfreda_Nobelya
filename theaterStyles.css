@@ -1,5 +1,6 @@
 #container{
     width: 100%;
+    height: 3167px;
 }
 #first{
     position: absolute;
@@ -66,7 +67,7 @@
 }
 #headtext4{
     position: absolute;
-    width: 641px;
+    width: 741px;
     height: 63px;
     left: 41px;
     top: 37px;
@@ -192,7 +193,8 @@
     left: 4%;
     font-size: 25px;
     position: absolute;
-    width: 94%;
+    width: 92%;
+    height: 2150px;
     top: 395px;
     padding: 20px;
 
@@ -221,6 +223,77 @@
 
     color: #000000;
 }
+#text2{
+    left: 5%;
+    position: absolute;
+    width: 1417px;
+    height: 420px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 30px;
+    line-height: 35px;
+
+    color: #000000;
+}
+#text3{
+    top: 700px;
+    left: 5%;
+    position: absolute;
+    width: 676px;
+    height: 451px;
+}
+#text4{
+    position: absolute;
+    top: 700px;
+    left: 52%;
+}
+#text5{
+    top: 1200px;
+    left: 5%;
+    position: absolute;
+    width: 1399px;
+    height: 397px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 32px;
+    line-height: 37px;
+
+    color: #000000;
+}
+#text6{
+    top: 1600px;
+    position: absolute;
+    left: 5%;
+}
+#text7{
+    top: 1600px;
+    position: absolute;
+    left: 35%;
+}
+#text8{
+    top: 1600px;
+    position: absolute;
+    left: 65%;
+}
+#text9{
+    left: 5%;
+    top: 1970px;
+    position: absolute;
+    width: 1433px;
+    height: 114px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 32px;
+    line-height: 37px;
+
+    color: #000000;
+}
 #fourth{
     position: absolute;
     width: 94%;
@@ -239,7 +312,7 @@
     position: absolute;
     width: 40%;
     height: 50px;
-    top: 2305px;
+    top: 2754px;
     left: 30%;
 
     background: #709FDC;
@@ -265,7 +338,7 @@
     width: 100%;
     height: 367px;
     left: 0px;
-    top: 2326px;
+    top: 2780px;
 
     background: #274684;
 }
@@ -351,7 +424,10 @@
     background-color: #428dc9;
     opacity: 0;
 }
-
+a{
+    text-decoration: none;
+    color: black;
+}
 .underDrop{
     text-decoration: none;
 }
