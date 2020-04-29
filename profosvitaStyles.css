@@ -1,6 +1,6 @@
 #container{
     width: 100%;
-    height: 3067px;
+    height: 2367px;
 }
 #first{
     position: absolute;
@@ -190,11 +190,11 @@
     color: white;
 }
 #third{
-    left: 4%;
+    left: 5%;
     font-size: 25px;
     position: absolute;
     width: 92%;
-    height: 2150px;
+    height: 1850px;
     top: 395px;
     padding: 20px;
 
@@ -204,57 +204,15 @@
     box-sizing: border-box;
     border-radius: 20px;
 }
-#heading{
+#heading {
     width: 1480px;
     height: 175px;
 }
 #text1{
-    left: 250px;
-    top: 60px;
+    left: 3%;
     position: absolute;
-    width: 1198px;
-    height: 49px;
-
-    font-family: Roboto;
-    font-style: normal;
-    font-weight: 300;
-    font-size: 42px;
-    line-height: 49px;
-
-    color: #000000;
-}
-#text2{
-    left: 5%;
-    position: absolute;
-    width: 1417px;
-    height: 420px;
-
-    font-family: Roboto;
-    font-style: normal;
-    font-weight: 300;
-    font-size: 30px;
-    line-height: 35px;
-
-    color: #000000;
-}
-#text3{
-    top: 700px;
-    left: 5%;
-    position: absolute;
-    width: 676px;
-    height: 451px;
-}
-#text4{
-    position: absolute;
-    top: 700px;
-    left: 52%;
-}
-#text5{
-    top: 1200px;
-    left: 5%;
-    position: absolute;
-    width: 1399px;
-    height: 397px;
+    width: 1444px;
+    height: 1672px;
 
     font-family: Roboto;
     font-style: normal;
@@ -263,28 +221,19 @@
     line-height: 37px;
 
     color: #000000;
+
 }
-#text6{
-    top: 1600px;
+#img{
+    top: 1000px;
+    left: 25%;
     position: absolute;
-    left: 5%;
+    width: 681px;
+    height: 454px;
 }
-#text7{
-    top: 1600px;
+#text2{
+    left: 3%;
+    top: 1500px;
     position: absolute;
-    left: 35%;
-}
-#text8{
-    top: 1600px;
-    position: absolute;
-    left: 65%;
-}
-#text9{
-    left: 5%;
-    top: 1970px;
-    position: absolute;
-    width: 1433px;
-    height: 114px;
 
     font-family: Roboto;
     font-style: normal;
@@ -312,7 +261,7 @@
     position: absolute;
     width: 40%;
     height: 50px;
-    top: 2754px;
+    top: 2254px;
     left: 30%;
 
     background: #709FDC;
@@ -338,7 +287,7 @@
     width: 100%;
     height: 367px;
     left: 0px;
-    top: 2780px;
+    top: 2280px;
 
     background: #274684;
 }
