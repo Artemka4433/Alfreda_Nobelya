@@ -4,10 +4,12 @@
     <meta charset="UTF-8">
     <title>duan.edu.ua</title>
     <link href="styles.css" rel="stylesheet">
+    <script src="script.js"></script>
     <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300;600&family=Roboto:ital,wght@0,300;1,300&display=swap"
           rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@600&family=Roboto:ital,wght@0,300;1,300&display=swap"
           rel="stylesheet">
+    <meta name="viewport" content="width=device-width">
 </head>
 <body>
 <div id="container">
@@ -80,7 +82,7 @@
             освіти<strong>, </strong>із них (1 – викладачем, 4 – аспірантами та здобувачами університету).</p></section>
 </div>
 </div>
-<div id="fourth"> <div id="map"><a href="https://maps.google.com.ua/"></a></div>
+<div id="fourth"> <a href="https://maps.google.com.ua/"></a>
     <iframe id="map1" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2645.2092434219103!2d35.040832515846546!3d48.47169993580919!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40dbe2eefae376b9%3A0x6b4d864fd6ea667e!2z0KPQvdC40LLQtdGA0YHQuNGC0LXRgiDQuNC80LXQvdC4INCQ0LvRjNGE0YDQtdC00LAg0J3QvtCx0LXQu9GP!5e0!3m2!1sru!2sua!4v1587415162565!5m2!1sru!2sua" width="1527" height="647" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 </div>
 <div id="fifth">
